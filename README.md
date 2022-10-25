@@ -19,3 +19,7 @@ Back up and safeguard data using AWS Data Pipeline
 Create monitoring and alerting dashboards using CloudWatch
 Effectively monitor and troubleshoot serverless applications with AWS
 Design serverless apps via AWS Lambda, DynamoDB, and API Gateway
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788835770">https://packt.link/free-ebook/9781788835770 </a> </p>
